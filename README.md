@@ -2,4 +2,6 @@
 
 A multi-thread implementation for the simple KNN algorithm, written in C++.
 
-Needs *FastFlow* libraries, for execution parameters just call the executable by itself.
+Needs *FastFlow* libraries, compile with *make all*.
+
+For execution parameters just call the executable by itself.
